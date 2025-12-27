@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-anikeatyadav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anikeatyadav)
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+there!;I'm+Anikeat+Yadav%2C+a+good+person+and+ambiivert+%E2%9C%A9" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+there!;I'm+Anikeat+Yadav%2C+trying + to+ be+ a+good+person+and+ambiivert+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
     🎮 Music • Games • Anime • Code • Art
