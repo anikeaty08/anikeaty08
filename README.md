@@ -1,52 +1,27 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=900&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineer;Agents+%E2%80%A2+LLMs+%E2%80%A2+Reasoning;Building+and+shipping+intelligent+systems)
+<!-- Primary typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=1000&lines=AI+%26+Machine+Learning+Engineer;LLMs+%E2%80%A2+Agents+%E2%80%A2+Reasoning;Designing+intelligent+systems" />
 
-[![Gmail](https://img.shields.io/badge/Gmail-aniketbxr1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketbxr1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-anikeaty08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anikeaty08)
+<br><br>
 
-</div>
+<!-- Contact badges -->
+<a href="mailto:aniketbxr1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/anikeaty08">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
+<br><br><br>
 
-## 👋 Hi, I’m Aniket Yadav
+<!-- Secondary typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=52&duration=4200&pause=400&color=38BDF8&center=true&vCenter=true&repeat=false&width=1200&lines=Hi+there%2C+I'm+Aniket+Yadav" />
 
-I’m an **AI & Machine Learning Engineer** focused on building **intelligent systems** that move from ideas → experiments → production.  
-I enjoy working on **LLMs, agents, and reasoning systems**, and I care a lot about clean design and practical impact.
+<br><br>
 
----
-
-## 🧠 What I Work On
-- Machine Learning & Deep Learning
-- Large Language Models (LLMs)
-- AI Agents & Reasoning Systems
-- End-to-end ML pipelines
-- Experimentation → deployment workflows
-
----
-
-
----
-
-## 🚀 Current Focus
-- Building and experimenting with **LLM-based agents**
-- Improving **reasoning & evaluation pipelines**
-- Learning more about **scalable ML systems**
-
----
-
-
-
----
-
-## 📫 Let’s Connect
-- 📧 Email: **aniketbxr1@gmail.com**
-- 💻 GitHub: [anikeaty08](https://github.com/anikeaty08)
-
----
-
-<div align="center">
-
-_Always learning. Always building._
+<pre style="color:#94A3B8">
+learning • building • shipping
+</pre>
 
 </div>
