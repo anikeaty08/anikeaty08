@@ -1,29 +1,16 @@
 # Hi there, I'm Aniket! 👋
-### Machine Learning Developer & AI Engineer
+### Machine Learning Engineer
 
-I am a passionate Machine Learning student focused on building intelligent systems and extracting insights from data. I enjoy exploring deep learning architectures and optimizing models for real-world applications.
+> **Turning complex data into intelligent decisions.**
 
----
-
-### 🚀 Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-222222?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+I am a Machine Learning student and aspiring AI Engineer dedicated to building scalable models and exploring the frontiers of Deep Learning.
 
 ---
 
-### 🛠️ Currently working on
-- 🔭 Building a Computer Vision project for medical imaging.
-- 🌱 Learning about Large Language Models (LLMs) and Fine-tuning.
-- ⚡ Deep diving into MLOps and Model Deployment strategies.
+### 🚀 Currently Exploring
+- 🔭 Developing Computer Vision applications for real-world impact.
+- 🌱 Mastering Large Language Models (LLMs) and Generative AI.
+- ⚡ Refining MLOps workflows for seamless model deployment.
 
 ---
 
