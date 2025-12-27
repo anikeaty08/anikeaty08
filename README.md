@@ -6,17 +6,14 @@
 [![X](https://img.shields.io/badge/X-@nikku696969-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nikku696969)
 [![GitHub](https://img.shields.io/badge/GitHub-imthegoodboy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imthegoodboy)
 
-<br/>
+<div align="center">
+<h1>Hi there! 👋</h1>
+<p>I'm <b>Aniket</b>, just a <b>good</b> person and a proud <b>ambiivert</b> building things with code and data.</p>
+</div>
 
-# Hi there! I'm Aniket
+<br>
 
-**building things with code, data, and a bit of curiosity ✨**
-
-I'm an **ambivert** who loves writing **good** code and exploring the intersection of ML and creativity.
-
-<br/>
-
-<pre>
+<pre align="center">
 🎮 Music • Games • Anime • Code • Art
 🧠 ML • Agents • LLMs • Research
 </pre>
