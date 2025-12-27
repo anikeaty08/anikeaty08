@@ -1,25 +1,19 @@
-# Hi there, I'm Aniket! 👋
-### Machine Learning Engineer
+<div align="center">
 
-> **Turning complex data into intelligent decisions.**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=900&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Agents+%E2%80%A2+LLMs+%E2%80%A2+Reasoning;Shipping+bold+ideas)
 
-I am a Machine Learning student and aspiring AI Engineer dedicated to building scalable models and exploring the frontiers of Deep Learning.
+[![Gmail](https://img.shields.io/badge/Gmail-aniketbxr1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketbxr1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-anikeaty08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anikeaty08)
 
----
-
-### 🚀 Currently Exploring
-- 🔭 Developing Computer Vision applications for real-world impact.
-- 🌱 Mastering Large Language Models (LLMs) and Generative AI.
-- ⚡ Refining MLOps workflows for seamless model deployment.
-
----
-
-### 📊 GitHub Stats
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikeaty08&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikeaty08&layout=compact&theme=radical)
-
----
-
-### 📫 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anikeaty08)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketbxr1@gmail.com)
+<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Aniket%2C+a+machine+learning+student+%E2%9C%A9" width="70%" />
+<br><br>
+<pre>
+    🧠 Machine Learning • Deep Learning • Computer Vision • NLP
+    💻 Python • Research • Open Source • AI Agents
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+</div>
