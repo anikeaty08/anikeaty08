@@ -7,15 +7,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-imthegoodboy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imthegoodboy)
 
 <div align="center">
-<h1>Hi there! 👋</h1>
-<p>I'm <b>Aniket</b>, just a <b>good</b> person and a proud <b>ambiivert</b> building things with code and data.</p>
-</div>
-
-<br>
-
-<pre align="center">
-🎮 Music • Games • Anime • Code • Art
-🧠 ML • Agents • LLMs • Research
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=45&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=150&lines=Hi+there!;I'm+Aniket%2C+a+good+person+and+ambiivert+✨" width="80%" />
+<br><br>
+<pre>
+    🎮 Music • Games • Anime • Code • Art
+    🧠 ML • Agents • LLMs • Research
 </pre>
+<br>
+<p><b>building things with code, data, and a bit of curiosity</b></p>
+</div>
 
 </div>
