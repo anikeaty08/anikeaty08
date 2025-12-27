@@ -6,14 +6,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-anikeaty08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anikeaty08)
 
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Aniket%2C+a+machine+learning+student+%E2%9C%A9" width="70%" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Aniket%2C+a+tech+goblin+and+magical+boy+wannabe+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
-    🧠 Machine Learning • Deep Learning • Computer Vision • NLP
-    💻 Python • Research • Open Source • AI Agents
+    🎮 Music • Games • Anime • Code • Art
+    🧠 ML • Agents • LLMs • Research
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" height="50" />
 <br><br><br>
 </div>
