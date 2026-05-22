@@ -129,7 +129,7 @@ Read them on the portfolio: **[Writing section](https://anikeat08.vercel.app/#wr
 
 I am open to internships, collaborations, freelance work, and serious project discussions.
 
-- Portfolio: [anikeat08.vercel.app](https://anikeat08.vercel.app/)
+- Portfolio: [anikeaty08.tech](https://anikeaty08.tech/)
 - GitHub: [github.com/anikeaty08](https://github.com/anikeaty08)
 - Email: [aniketbxr1@gmail.com](mailto:aniketbxr1@gmail.com)
 
