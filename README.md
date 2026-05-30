@@ -10,7 +10,7 @@ I build ambitious systems with clean UI and real constraints.
 [![GitHub](https://img.shields.io/badge/GitHub-anikeaty08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anikeaty08)
 [![Email](https://img.shields.io/badge/Email-aniketbxr1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketbxr1@gmail.com)
 
-![Profile Preview](https://anikeat08.vercel.app/og.svg)
+![Profile Preview](https://anikeat08.tech/og.svg)
 
 </div>
 
