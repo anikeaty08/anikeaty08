@@ -6,11 +6,11 @@
 
 I build ambitious systems with clean UI and real constraints.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anikeat08.vercel.app-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://anikeat08.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anikeaty08.tech-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://www.anikeaty08.tech/)
 [![GitHub](https://img.shields.io/badge/GitHub-anikeaty08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anikeaty08)
 [![Email](https://img.shields.io/badge/Email-aniketbxr1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketbxr1@gmail.com)
 
-![Profile Preview](https://anikeat08.tech/og.svg)
+![Profile Preview](https://www.anikeaty08.tech/og.svg)
 
 </div>
 
@@ -50,7 +50,7 @@ const anikeat = {
 | **VeilPay** | Private payment interface focused on simple, clean transaction flows. | TypeScript, Web3, Payments, Privacy | [Live](https://veil-pay-peach.vercel.app) / [Code](https://github.com/anikeaty08/veilPay) |
 | **adNod** | Deployed product experiment around ad-node style mechanics. | TypeScript, Web App, Web3 | [Live](https://ad-nod.vercel.app) / [Code](https://github.com/anikeaty08/adNod) |
 
-More work and case studies live on my portfolio: **[anikeat08.vercel.app](https://anikeat08.vercel.app/)**.
+More work and case studies live on my portfolio: **[anikeaty08.tech](https://www.anikeaty08.tech/)**.
 
 ## Skills
 
@@ -104,7 +104,7 @@ I also write short notes about what I learn while building:
 - **Building a Web3 app without making UX weird** - wallet auth, encryption, safe defaults, and low-friction flows.
 - **Agentic RAG: the parts that actually matter** - retrieval, tool traces, debugging, and trust.
 
-Read them on the portfolio: **[Writing section](https://anikeat08.vercel.app/#writing)**.
+Read them on the portfolio: **[Writing section](https://www.anikeaty08.tech/#writing)**.
 
 ## GitHub Snapshot
 
@@ -129,7 +129,7 @@ Read them on the portfolio: **[Writing section](https://anikeat08.vercel.app/#wr
 
 I am open to internships, collaborations, freelance work, and serious project discussions.
 
-- Portfolio: [anikeaty08.tech](https://anikeaty08.tech/)
+- Portfolio: [anikeaty08.tech](https://www.anikeaty08.tech/)
 - GitHub: [github.com/anikeaty08](https://github.com/anikeaty08)
 - Email: [aniketbxr1@gmail.com](mailto:aniketbxr1@gmail.com)
 
