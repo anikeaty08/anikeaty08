@@ -110,9 +110,9 @@ Read them on the portfolio: **[Writing section](https://www.anikeaty08.tech/#wri
 
 <div align="center">
 
-![Anikeat's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikeaty08&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+![Anikeat's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anikeaty08&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=21600)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anikeaty08&layout=compact&theme=github_dark&hide_border=true)
+![Top languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=anikeaty08&layout=compact&theme=github_dark&hide_border=true&cache_seconds=21600)
 
 ![GitHub streak](https://streak-stats.demolab.com?user=anikeaty08&theme=github-dark-blue&hide_border=true)
 
