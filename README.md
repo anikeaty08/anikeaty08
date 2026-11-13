@@ -13,15 +13,6 @@
 </p>
 
 ---
-
-### Building
-
-| | |
-| :-- | :-- |
-| [**Phigon**](https://phigon.online) | Monitoring and evaluation platform for AI agent workflows: traces, tool usage, feedback loops |
-| [**Cortex**](https://cortexpro.info) | Windows desktop AI agent that runs everyday tasks from natural language |
-| **HireHunt** | Python framework on PyPI that unifies job listings from 12+ sources |
-
 ### Stack
 
 `Python` `PyTorch` `scikit-learn` `Pandas` `FastAPI` `Node.js` `TypeScript` `OpenAI SDK` `Amazon Bedrock` `AWS` `RAG` `OCR` `Docker` `Linux` `Git`
